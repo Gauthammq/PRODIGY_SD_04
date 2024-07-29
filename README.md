@@ -45,7 +45,7 @@ A simple Sudoku solver application built using Python's Tkinter library. This GU
 
 ## Author
 
-- **Your Name** - [Your GitHub Profile](https://github.com/Gauthammq)
+ - [Gautham Krishna R](https://github.com/Gauthammq)
 - **Contributions:** Developed the GUI and implemented the Sudoku solving logic.
 
 ## License
