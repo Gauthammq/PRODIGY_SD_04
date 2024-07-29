@@ -58,4 +58,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Sudoku Solving Algorithm](https://en.wikipedia.org/wiki/Sudoku_solving_algorithms)
 ```
 
-Make sure to replace "Your Name" and "your-username" with your actual name and GitHub username. Additionally, update any other relevant sections as needed.
